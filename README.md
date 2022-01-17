@@ -16,11 +16,9 @@ Also do not forget to change the following variables with the value of your own 
     ```
     # your screen's size
     ```
-    
     ```
     width = 1920
     ```
-    
     ```
     height = 1080
     ```
