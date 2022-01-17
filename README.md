@@ -14,9 +14,8 @@ You will need PyAutoGUI:
     
 Also do not forget to change the following variables with the value of your own screen resolution:
     ```
-    # your screen's size
-    ```
-    ```
     width = 1920
+    ```
+    ```
     height = 1080
     ```
