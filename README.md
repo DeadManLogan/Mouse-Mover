@@ -18,6 +18,10 @@ width = 1920
 height = 1080
     ```
     # your screen's size
+    ```
+    ```
     width = 1920
+    ```
+    ```
     height = 1080
     ```
