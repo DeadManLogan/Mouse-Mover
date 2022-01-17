@@ -18,7 +18,5 @@ Also do not forget to change the following variables with the value of your own 
     ```
     ```
     width = 1920
-    ```
-    ```
     height = 1080
     ```
